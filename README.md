@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Ayushi  
+# :wave: Hi,There  
 ### :star2: About Me   
 I'm a front-end Developer, passionate about the full-stack web development and AI.  
 I'm always eager to learn more and improve my skills a little better than before.  
