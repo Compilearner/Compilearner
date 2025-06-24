@@ -5,7 +5,6 @@ Eager to learn and improve my skills a little better than before.
 * :computer: Languages Known: HTML, CSS, Javascript, C , C++
 * :computer: Frameworks: React,Tailwind CSS, Express.js
 * :computer: Tools: Git
-* :dancing_women: I'm new to open-source contributions and looking forward to contribute more and brush-up my skills for better developement.
 
 ### :trophy: Hacktoberfest 2024
 * Successfully contributed to beginner-friendly open-source repositories during Hacktoberfest 2024.
