@@ -1,6 +1,6 @@
 # :wave: Hi,There  
 ### :star2: About Me   
-Student
+Student  
 Eager to learn and improve my skills a little better than before.  
 * :computer: Languages Known: HTML, CSS, Javascript, C , C++
 * :computer: Frameworks: React,Tailwind CSS, Express.js
