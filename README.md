@@ -4,7 +4,7 @@
 CSE Student 
 Eager to learn and improve my skills a little better than before.  
 * :computer: Languages Known: HTML, CSS, Javascript, C , C++
-* :computer: Frameworks, libraries, & Databases: React, Tailwind CSS, Express.js, MongoDB(Familiarity), Zustand(Familiarity)
+* :computer: Frameworks, libraries, & Databases: React, Tailwind CSS, Express.js, MongoDB(Basic), Zustand(Basic)
 * :computer: Tools: Git
 
 ### :trophy: Hacktoberfest 2024
