@@ -1,9 +1,10 @@
 # :wave: Hi,There  
 ### :star2: About Me   
-Student  
+
+CSE Student 
 Eager to learn and improve my skills a little better than before.  
 * :computer: Languages Known: HTML, CSS, Javascript, C , C++
-* :computer: Frameworks: React,Tailwind CSS, Express.js
+* :computer: Frameworks, libraries, & Databases: React, Tailwind CSS, Express.js, MongoDB(Familiarity), Zustand(Familiarity)
 * :computer: Tools: Git
 
 ### :trophy: Hacktoberfest 2024
