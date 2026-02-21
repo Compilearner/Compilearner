@@ -49,5 +49,6 @@
 
 <blockquote align="center" style="font-size:1.2em; color:#5c5c5c; font-style:italic; border-left: 4px solid #38B2AC; padding: 0.5em 1em;">
   “Code is like humor. When you have to explain it, it’s bad.”<br>
+  “But talented people can explain everything, which is not even related to CODE.”<br>
   <span style="font-size:1em;">– Cory House</span>
 </blockquote>
