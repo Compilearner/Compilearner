@@ -3,8 +3,8 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Ayushi%20Baliyan&fontSize=35&fontAlignY=40)
 ## 🚀 About Me
 
-- 🎓 Engineering student passionate about building and breaking (mostly building!) things on the web.
-- 💻 Currently leveling up my skills in both frontend and backend development.
+- 🎓 Engineering student passionate about building things on the web.
+- 💻 Currently exploring both frontend and backend development.
 
 <br>
 
